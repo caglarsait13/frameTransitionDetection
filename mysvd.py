@@ -1,11 +1,4 @@
 
-""" 
-Muhammed Sait Çağlar
-Department of Computer Engineering
-150230009
-
-"""
-
 import numpy as np
 import math
 
